@@ -8,7 +8,7 @@
       "deposit": 10,
       "date": "2025-08-22",
       "employee": "John Doe",
-      "status": "finished"
+      "status": "cancelled"
     },
     {
       "id": 2,
