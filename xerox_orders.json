@@ -41,7 +41,5 @@
       "status": "received"
     }
   ],
-  "employees": [
-    "Robert Johnson"
-  ]
+  "employees": []
 }
