@@ -1,1 +1,29 @@
-{"orders":[{"id":1,"phone":"5551234567","description":"100 copies of presentation","price":25.5,"deposit":10,"date":"2025-08-22","employee":"John Doe","status":"finished"},{"id":2,"phone":"5559876543","description":"Business cards printing","price":45,"deposit":20,"date":"2025-08-21","employee":"Jane Smith","status":"in-progress"}],"employees":["John Doe","Jane Smith","Robert Johnson"]}
+{
+  "orders": [
+    {
+      "id": 1,
+      "phone": "5551234567",
+      "description": "100 copies of presentation",
+      "price": 25.5,
+      "deposit": 10,
+      "date": "2025-08-22",
+      "employee": "John Doe",
+      "status": "finished"
+    },
+    {
+      "id": 2,
+      "phone": "5559876543",
+      "description": "Business cards printing",
+      "price": 45,
+      "deposit": 20,
+      "date": "2025-08-21",
+      "employee": "Jane Smith",
+      "status": "in-progress"
+    }
+  ],
+  "employees": [
+    "John Doe",
+    "Jane Smith",
+    "Robert Johnson"
+  ]
+}
