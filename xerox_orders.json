@@ -38,7 +38,7 @@
       "deposit": 987,
       "date": "2025-08-22",
       "employee": "Jane Smith",
-      "status": "received"
+      "status": "finished"
     },
     {
       "id": 1755900502860,
@@ -78,5 +78,5 @@
     "احمد",
     "محمد"
   ],
-  "lastUpdated": "2025-08-23T09:33:05.762Z"
+  "lastUpdated": "2025-08-23T09:33:06.930Z"
 }
