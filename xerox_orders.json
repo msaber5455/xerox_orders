@@ -28,7 +28,7 @@
       "deposit": 78,
       "date": "2025-08-22",
       "employee": "John Doe",
-      "status": "cancelled"
+      "status": "finished"
     },
     {
       "id": 1755899792238,
@@ -78,5 +78,5 @@
     "احمد",
     "محمد"
   ],
-  "lastUpdated": "2025-08-23T09:33:04.514Z"
+  "lastUpdated": "2025-08-23T09:33:05.762Z"
 }
