@@ -48,7 +48,7 @@
       "deposit": 200,
       "date": "2025-08-20",
       "employee": "mohamed",
-      "status": "received"
+      "status": "finished"
     },
     {
       "id": 1755900520236,
@@ -78,5 +78,5 @@
     "احمد",
     "محمد"
   ],
-  "lastUpdated": "2025-08-23T09:33:10.418Z"
+  "lastUpdated": "2025-08-23T09:33:12.378Z"
 }
