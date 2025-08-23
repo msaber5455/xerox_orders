@@ -68,7 +68,7 @@
       "deposit": 100,
       "date": "2025-08-24",
       "employee": "mohamed",
-      "status": "received"
+      "status": "in-progress"
     }
   ],
   "employees": [
@@ -78,5 +78,5 @@
     "احمد",
     "محمد"
   ],
-  "lastUpdated": "2025-08-22T23:56:03.495Z"
+  "lastUpdated": "2025-08-23T09:33:02.946Z"
 }
