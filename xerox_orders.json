@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1756455494543,
+      "phone": "01101139033",
+      "description": "S.Hussin CV\nالتعديلات\nرقم الموبايل هنشيل اللي موجود ونحط الرقم ده : 01101139033\nBachelor of music هنشيل تاريخ 2007 \nونحط تاريخ 2010_2011\nهنزود في violin teaching Experience \n•Head of Music Department at Majesty international School (2023-2025)",
+      "price": 150,
+      "deposit": 150,
+      "date": "2025-08-29",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1756452221808,
       "phone": "01127323427",
       "description": "coffee era BC",
@@ -157,5 +167,5 @@
     "هناء",
     "ربيع"
   ],
-  "lastUpdated": "2025-08-29T07:23:49.916Z"
+  "lastUpdated": "2025-08-29T08:18:14.543Z"
 }
