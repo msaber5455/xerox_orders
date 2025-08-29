@@ -8,7 +8,7 @@
       "deposit": 150,
       "date": "2025-08-29",
       "employee": "محمد صابر",
-      "status": "received"
+      "status": "finished"
     },
     {
       "id": 1756452221808,
@@ -167,5 +167,5 @@
     "هناء",
     "ربيع"
   ],
-  "lastUpdated": "2025-08-29T08:18:14.543Z"
+  "lastUpdated": "2025-08-29T08:18:18.605Z"
 }
