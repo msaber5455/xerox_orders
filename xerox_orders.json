@@ -18,7 +18,7 @@
       "deposit": 150,
       "date": "2025-08-30",
       "employee": "محمد صابر",
-      "status": "received"
+      "status": "cancelled"
     },
     {
       "id": 1756569750890,
@@ -217,5 +217,5 @@
     "هناء",
     "ربيع"
   ],
-  "lastUpdated": "2025-08-30T16:08:26.478Z"
+  "lastUpdated": "2025-08-30T16:08:28.285Z"
 }
