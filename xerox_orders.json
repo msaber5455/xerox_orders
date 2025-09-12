@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1757686414482,
+      "phone": "01069682929",
+      "description": "ختم Silver Stone Management",
+      "price": 750,
+      "deposit": 750,
+      "date": "2025-09-12",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1757686367280,
       "phone": "01065300011",
       "description": "عمل ختم مقاس 22 ×58 بولدرز",
@@ -398,5 +408,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-12T14:13:21.620Z"
+  "lastUpdated": "2025-09-12T14:13:34.483Z"
 }
