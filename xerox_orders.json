@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1757686367280,
+      "phone": "01065300011",
+      "description": "عمل ختم مقاس 22 ×58 بولدرز",
+      "price": 750,
+      "deposit": 350,
+      "date": "2025-09-12",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1757686317119,
       "phone": "01092501908",
       "description": "Ziad sadek saleh سي في",
@@ -388,5 +398,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-12T14:12:22.006Z"
+  "lastUpdated": "2025-09-12T14:12:47.280Z"
 }
