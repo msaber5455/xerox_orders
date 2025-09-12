@@ -8,7 +8,7 @@
       "deposit": 200,
       "date": "2025-09-11",
       "employee": "شروق",
-      "status": "received"
+      "status": "in-progress"
     },
     {
       "id": 1757115747496,
@@ -358,5 +358,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-12T13:44:39.179Z"
+  "lastUpdated": "2025-09-12T13:44:40.755Z"
 }
