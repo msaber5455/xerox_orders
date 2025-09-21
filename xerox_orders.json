@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1758466458644,
+      "phone": "01068083600",
+      "description": "DR5 Medical Center (Blue - gold)",
+      "price": 150,
+      "deposit": 150,
+      "date": "2025-09-21",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1758455905234,
       "phone": "01007159964",
       "description": "Rotary Clun Of Khartoum\nالحي الثالث \nحساب 2200\nعربون 1200\nباقي 1000",
@@ -488,5 +498,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-21T12:29:13.850Z"
+  "lastUpdated": "2025-09-21T14:54:18.644Z"
 }
