@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1758466473466,
+      "phone": "01068083600",
+      "description": "Celestia mall(black - gold)",
+      "price": 150,
+      "deposit": 150,
+      "date": "2025-09-21",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1758466458644,
       "phone": "01068083600",
       "description": "DR5 Medical Center (Blue - gold)",
@@ -498,5 +508,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-21T14:54:24.097Z"
+  "lastUpdated": "2025-09-21T14:54:33.466Z"
 }
