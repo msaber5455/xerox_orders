@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1758551015624,
+      "phone": "01229195292",
+      "description": "love egypt travel",
+      "price": 150,
+      "deposit": 150,
+      "date": "2025-09-22",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1758550964784,
       "phone": "01060626270",
       "description": "Lamis Ahmed\nlahmed@mylerz.com\nSenior Sales Executive\n01060626270",
@@ -538,5 +548,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-22T14:23:25.468Z"
+  "lastUpdated": "2025-09-22T14:23:35.624Z"
 }
