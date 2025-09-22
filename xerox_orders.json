@@ -1,6 +1,16 @@
 {
   "orders": [
     {
+      "id": 1758550953999,
+      "phone": "01068840147",
+      "description": "Mohamed Elmalt\nmelmalt@mylerz.com\nFreight Operations Manager\n01068840147",
+      "price": 150,
+      "deposit": 150,
+      "date": "2025-09-22",
+      "employee": "محمد صابر",
+      "status": "received"
+    },
+    {
       "id": 1758466507627,
       "phone": "01223929623",
       "description": " عميل عاوز يملى شويه معلومات فى الورق دة\nIMS-SCM-PRC-FR-001 - Vendor Registration Application",
@@ -518,5 +528,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-09-21T14:55:10.243Z"
+  "lastUpdated": "2025-09-22T14:22:34.000Z"
 }
