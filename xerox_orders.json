@@ -28,7 +28,7 @@
       "deposit": 150,
       "date": "2025-11-21",
       "employee": "محمد صابر",
-      "status": "received"
+      "status": "in-progress"
     },
     {
       "id": 1762812947522,
@@ -678,5 +678,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2025-11-21T23:23:23.002Z"
+  "lastUpdated": "2025-11-21T23:23:29.217Z"
 }
