@@ -28,7 +28,7 @@
       "deposit": 1000,
       "date": "2026-01-04",
       "employee": "محمد صابر",
-      "status": "in-progress"
+      "status": "finished"
     },
     {
       "id": 1764804262703,
@@ -718,5 +718,5 @@
     "ربيع",
     "شروق"
   ],
-  "lastUpdated": "2026-01-05T07:22:00.076Z"
+  "lastUpdated": "2026-01-05T13:07:18.376Z"
 }
